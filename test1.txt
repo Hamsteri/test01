@@ -1,5 +1,6 @@
 Test01
 
 "To hell, world!"
+"The end is nigh!"
 
-end
+end of us
